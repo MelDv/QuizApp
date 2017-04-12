@@ -6,7 +6,10 @@
 
 Front page
 
-![Front page](doc/front.png)
+<p align="center">
+  <img src="doc/front.png" width="350"/>
+</p>
+
 
 Flag question
 
