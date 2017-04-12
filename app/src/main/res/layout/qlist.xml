@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.quizapp.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/question"
+                android:layout_weight="1"
+                android:text="@string/bird" />
+
+            <RadioGroup
+                android:id="@+id/birds"
+                style="@style/radiobutton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="@string/pigeon" />
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="@string/eagle" />
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="@string/duck" />
+
+                <RadioButton
+                    android:id="@+id/swan"
+                    style="@style/radiobutton"
+                    android:text="@string/swan" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="8dp"
+            android:background="@android:color/darker_gray"></View>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/question"
+                android:layout_weight="1"
+                android:text="@string/pres_first" />
+
+            <RadioGroup
+                android:id="@+id/pres_first"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="Riitta Uosukainen" />
+
+                <RadioButton
+                    android:id="@+id/stahl"
+                    style="@style/radiobutton"
+                    android:text="K.J. Ståhlberg" />
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="Sauli Niinistö" />
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="U.K. Kekkonen" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="8dp"
+            android:background="@android:color/darker_gray"></View>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/question"
+                android:layout_weight="1"
+                android:text="@string/animal" />
+
+            <RadioGroup
+                android:id="@+id/animal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/bear"
+                    style="@style/radiobutton"
+                    android:text="@string/bear" />
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="@string/frog" />
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="@string/bobcat" />
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="@string/rabbit" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="8dp"
+            android:background="@android:color/darker_gray"></View>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/question"
+                android:layout_weight="1"
+                android:text="@string/pres_now" />
+
+            <RadioGroup
+                android:id="@+id/pres"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="Tarja Halonen" />
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="Martti Ahtisaari" />
+
+                <RadioButton
+                    style="@style/radiobutton"
+                    android:text="Matti Nykänen" />
+
+                <RadioButton
+                    android:id="@+id/sale"
+                    style="@style/radiobutton"
+                    android:text="Sauli Niinistö" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="8dp"
+            android:background="@android:color/darker_gray"></View>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/question"
+                android:layout_weight="1"
+                android:text="@string/neighbors" />
+
+            <LinearLayout
+                android:id="@+id/pres"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <CheckBox
+                    android:id="@+id/swe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/swe" />
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jap" />
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/fra" />
+
+                <CheckBox
+                    android:id="@+id/rus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/rus" />
+            </LinearLayout>
+        </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="8dp"
+                android:background="@android:color/darker_gray"></View>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/question"
+                    android:layout_weight="1"
+                    android:text="@string/name" />
+
+                <EditText
+                    android:id="@+id/fin_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_margin="8dp"
+                    android:background="@android:color/darker_gray"></View>
+            </LinearLayout>
+
+        <Button
+            android:id="@+id/answers"
+            style="@style/button"
+            android:onClick="countPoints"
+            android:text="@string/send" />
+
+        <TextView
+            android:id="@+id/score"
+            style="@style/question"
+            android:text="@string/score" />
+    </LinearLayout>
+</ScrollView>

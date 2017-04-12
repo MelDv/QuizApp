@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcome_message">Itsenäinen Suomi täyttää 100 vuotta vuonna 2017.\nTestaa tietosi Suomesta - ja opi samalla lisää!</string>
+    <string name="start_luck">Aloita painamalla lippua. Onnea yritykseen!</string>
+    <string name="label_one">Harjoittelukysymys</string>
+    <string name="pic_flag">Mikä näistä on Suomen lippu?</string>
+    <string name="score">"Pisteet: "</string>
+    <string name="send">Lähetä</string>
+    <string name="wrong_flag">"Yritä uudelleen. Tämä lippu kuuluu "</string>
+    <string name="greece">Kreikalle.</string>
+    <string name="scot">Skotlannille.</string>
+    <string name="sweden">Ruotsille.</string>
+    <string name="animal">Mikä on Suomen kansalliseläin?</string>
+    <string name="bird">Mikä on Suomen kansallislintu?</string>
+    <string name="neighbors">Mitkä näistä ovat Suomen naapurimaita?</string>
+    <string name="pres_first">Kuka oli Suomen ensimmäinen presidentti?</string>
+    <string name="pres_now">Kuka on Suomen presidentti?</string>
+    <string name="duck">Sorsa</string>
+    <string name="eagle">Kotka</string>
+    <string name="pigeon">Pulu</string>
+    <string name="swan">Laulujoutsen</string>
+    <string name="label_two">Kysymykset</string>
+    <string name="right_answer">Oikein!</string>
+    <string name="bear">Karhu</string>
+    <string name="bobcat">Ilves</string>
+    <string name="frog">Sammakko</string>
+    <string name="rabbit">Jänis</string>
+    <string name="label_three">Oikeat vastaukset</string>
+    <string name="fra">Ranska</string>
+    <string name="jap">Japani</string>
+    <string name="rus">Venäjä</string>
+    <string name="swe">Ruotsi</string>
+    <string name="name">Kirjoita tähän vielä maamme nimi:</string>
+    <string name="points">"Onneksi olkoon! Pistemääräsi on "</string>
+    <string name="back">Pelaa uudestaan!</string>
+</resources>

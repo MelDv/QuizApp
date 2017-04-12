@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcome_message">Independent Finland turns 100 in 2017. \nTest how much you know about Finland\nand learn more!</string>
+    <string name="start_luck">Start by pressing the flag. Good luck!</string>
+    <string name="score">Score: </string>
+    <string name="send">Send</string>
+    <string name="wrong_flag">"Try again. This is the flag of "</string>
+    <string name="right_answer">Correct!</string>
+    <string name="points">Congratulations! Your score is </string>
+    <string name="back">Play again!</string>
+
+    <!--Labels-->
+    <string name="label_one">Practice question</string>
+    <string name="label_two">Questions</string>
+    <string name="label_three">Correct Answers</string>
+
+    <!--Questions-->
+    <string name="pic_flag">Which one of these is the Finnish flag?</string>
+    <string name="pres_first">Who was the first president of Finland?</string>
+    <string name="pres_now">Who is the president of Finland?</string>
+    <string name="bird">What is the national bird of Finland?</string>
+    <string name="animal">What is the national animal of Finland?</string>
+    <string name="neighbors">Which of these are Finland\'s neighboring countries?</string>
+    <string name="name">What is Finland called in Finnish?</string>
+
+    <!--Answers-->
+    <!--Flags-->
+    <string name="greece">Greece.</string>
+    <string name="scot">Scotland.</string>
+    <string name="sweden">Sweden.</string>
+    <!--National bird-->
+    <string name="pigeon">Pigeon</string>
+    <string name="eagle">Eagle</string>
+    <string name="swan">Swan</string>
+    <string name="duck">Duck</string>
+    <!--National animal-->
+    <string name="bear">Brown bear</string>
+    <string name="frog">Frog</string>
+    <string name="bobcat">Bobcat</string>
+    <string name="rabbit">Rabbit</string>
+    <!--Neighbors-->
+    <string name="swe">Sweden</string>
+    <string name="rus">Russia</string>
+    <string name="jap">Japan</string>
+    <string name="fra">France</string>
+    <!--Finland in Finnish-->
+    <string name="fin">Suomi</string>
+</resources>

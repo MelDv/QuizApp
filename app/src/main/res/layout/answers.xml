@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/question"
+            android:layout_weight="1"
+            android:text="@string/bird" />
+
+        <TextView
+            style="@style/answer"
+            android:layout_weight="1"
+            android:text="@string/swan" />
+
+        <TextView
+            style="@style/question"
+            android:layout_weight="1"
+            android:text="@string/pres_first" />
+
+        <TextView
+            style="@style/answer"
+            android:layout_weight="1"
+            android:text="K.J. Ståhlberg" />
+
+        <TextView
+            style="@style/question"
+            android:layout_weight="1"
+            android:text="@string/animal" />
+
+        <TextView
+            style="@style/answer"
+            android:layout_weight="1"
+            android:text="@string/bear" />
+
+        <TextView
+            style="@style/question"
+            android:layout_weight="1"
+            android:text="@string/pres_now" />
+
+        <TextView
+            style="@style/answer"
+            android:layout_weight="1"
+            android:text="Sauli Niinistö" />
+
+        <TextView
+            style="@style/question"
+            android:layout_weight="1"
+            android:text="@string/neighbors" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <TextView
+                style="@style/answer"
+                android:text="@string/swe" />
+
+            <TextView
+                style="@style/answer"
+                android:text="@string/rus" />
+        </LinearLayout>
+
+        <TextView
+            style="@style/question"
+            android:layout_weight="1"
+            android:text="@string/name" />
+
+        <TextView
+            style="@style/answer"
+            android:layout_weight="1"
+            android:text="@string/fin" />
+
+        <Button
+            android:id="@+id/back"
+            style="@style/button"
+            android:layout_marginTop="20dp"
+            android:text="@string/back" />
+    </LinearLayout>
+</ScrollView>

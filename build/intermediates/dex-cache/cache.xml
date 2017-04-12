@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_ef0e873957f2cf88aae9626b74f2d6ec0ba95426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\8765d87088851ed7fc2b81a5ec2ca287ef214647\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35abf279e7a63fb9c4e831190edae2d9ac11581c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\97c7e33bfa6d2b6398c6d56d71fb10921d6b15b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ae6b4bdcad7c6e5a85c4eb3f0ee7435c4c15eda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\2706c6623de82b34dc7d31ac877ec250bcce99c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec48eb49929bbe64ecaf950c83a8e4086bc9f7cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\d337753e479f1545795bc391334c6a17b8f3418c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0cbdcdb886b2a309997e6ad5ad8639901cfcc2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30c1f0d559d5934837362a89a90fb6586592f7c2">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_65880e10ca8bf1fb8f259e35d527d9daec047c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_684a5eeab3f462daa5c319f059031aaaf12a92a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\a4cc4a187162afbf12806977806108af7bab981e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c898866e6cc35cf45dad68b64c3d56efa414aceb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\23fd60a608cba546945e1e316ee367db4e4ffa2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5d04aafb59dec006fa226d118d16eabdd86f098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\5643c0e5a12bb48abee514107f0e09450bf11046\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af6b836fb898ed4affb04186bf8db131b8df68bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\6558c22d9f1465b6296b3da78090e8fb059de35e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5862d121fbab3543bcca420f72e06f6cbb75408e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\46f2846990ab83edb19a5ccc3707beef17e4461d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_399f6d1c5266e066d2a95752c698871de2a984a7\classes.dex" />
+    </item>
+
+</items>
