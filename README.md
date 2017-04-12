@@ -6,19 +6,19 @@
 
 Front page
 
-![Front page](doc/front)
+![Front page](doc/front.png)
 
 Flag question
 
-![Flags page](doc/flags1)
-![Flags page](doc/flags2)
-![Flags page](doc/flags3)
+![Flags page](doc/flags1.png)
+![Flags page](doc/flags2.png)
+![Flags page](doc/flags3.png)
 
 Questions page
 
-![Questions page](doc/questions1)
-![Questions page](doc/questions2)
+![Questions page](doc/questions1.png)
+![Questions page](doc/questions2.png)
 
 Correct answers
 
-![Answers page](doc/answers)
+![Answers page](doc/answers.png)
