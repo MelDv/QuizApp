@@ -210,11 +210,13 @@
                     android:text="@string/swe" />
 
                 <CheckBox
+                    android:id="@+id/jap"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/jap" />
 
                 <CheckBox
+                    android:id="@+id/fra"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/fra" />

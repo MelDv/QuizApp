@@ -20,7 +20,7 @@
     <string name="pres_now">Who is the president of Finland?</string>
     <string name="bird">What is the national bird of Finland?</string>
     <string name="animal">What is the national animal of Finland?</string>
-    <string name="neighbors">Which of these are Finland\'s neighboring countries?</string>
+    <string name="neighbors">Which two are Finland\'s neighboring countries?</string>
     <string name="name">What is Finland called in Finnish?</string>
 
     <!--Answers-->
@@ -40,7 +40,7 @@
     <string name="rabbit">Rabbit</string>
     <!--Neighbors-->
     <string name="swe">Sweden </string>
-    <string name="rus">Russia</string>
+    <string name="rus">Russia </string>
     <string name="jap">Japan</string>
     <string name="fra">France</string>
     <!--Finland in Finnish-->

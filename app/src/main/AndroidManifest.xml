@@ -20,6 +20,7 @@
             android:label="@string/label_one" />
         <activity
             android:name=".QList"
+            android:configChanges="orientation|screenSize|keyboardHidden"
             android:label="@string/label_two" />
         <activity
             android:name=".CorrectAnswers"

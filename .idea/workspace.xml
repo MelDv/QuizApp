@@ -11,140 +11,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bca7adb-1ef9-4cff-a745-4deabd65eb31" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-10-19-26-39-737.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-30-59-639.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-31-12-069.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-39-25-195.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-56-01-702.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-56-23-570.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-27-01-912.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-28-10-469.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-28-59-503.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-30-43-098.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-31-01-888.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-31-36-024.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-32-32-533.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-33-22-979.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-33-40-131.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-50-18-891.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-51-05-827.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-18-55-22-731.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-19-17-56-998.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-18-09-861.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-18-52-951.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-19-50-306.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-22-31-865.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-23-05-510.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-23-18-835.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-24-43-840.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-30-18-315.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-30-36-916.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-35-12-416.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-42-25-746.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-48-45-621.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-48-59-546.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-50-23-078.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-53-56-841.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-56-26-244.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-20-58-06-521.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-21-00-46-181.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-21-01-17-095.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-21-25-00-873.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-21-26-57-004.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-21-31-43-262.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-21-32-13-758.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-21-40-31-426.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-27-03-648.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-28-26-223.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-29-01-244.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-32-09-933.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-32-29-938.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-33-52-900.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-35-06-971.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-36-06-538.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-37-53-145.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-39-50-191.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-40-14-725.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-40-29-607.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-41-22-314.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-41-28-246.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-42-25-985.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-44-10-640.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-50-07-748.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-53-04-297.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-54-17-242.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-22-54-38-186.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-07-59-322.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-14-26-956.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-29-24-937.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-33-20-140.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-33-33-490.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-33-47-915.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-34-16-463.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-34-42-509.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-36-50-004.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-37-12-627.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-44-49-074.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-48-16-766.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-48-27-261.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-49-36-118.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-50-53-730.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-51-18-950.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-55-06-945.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-56-41-308.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-23-59-57-220.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-00-45-966.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-02-33-920.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-03-40-338.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-12-56-831.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-13-27-719.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-13-47-562.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-14-57-773.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-17-27-452.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-18-04-662.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-21-45-373.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-22-49-329.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-28-13-815.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-31-07-311.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-33-02-190.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-49-37-964.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-00-55-38-018.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-10-07-45-419.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-10-07-56-265.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-10-46-57-031.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-11-08-20-031.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-11-18-35-110.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-12-01-01-924.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-12-12-11-40-592.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-20-22-16-02-209.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-17-18-20-200.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-17-18-39-619.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-17-27-28-365.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-17-27-40-709.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-20-38-11-336.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-23-20-38-25-360.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-24-19-57-45-674.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-24-19-57-52-269.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-25-12-53-06-742.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-25-12-53-22-320.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-20-53-656.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-22-26-908.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-22-34-429.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-23-18-151.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-31-26-431.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-04-14-34-27-491.rawproto" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/PicList.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/PicList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/QList.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/QList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/qlist.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/qlist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-fi/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-fi/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <ignored path="Quiz App.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -170,6 +69,9 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
         <projects_view>
           <tree_state />
         </projects_view>
@@ -181,37 +83,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="qlist.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/qlist.xml">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="202" column="41" selection-start-line="202" selection-start-column="41" selection-end-line="202" selection-end-column="41" />
+            <state relative-caret-position="493">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
               <folding>
-                <marker date="1499168066459" expanded="false" signature="860:874" ph="&quot;What is the national bird of Finland?&quot;" />
-                <marker date="1499168066459" expanded="false" signature="1291:1307" ph="&quot;Pigeon&quot;" />
-                <marker date="1499168066459" expanded="false" signature="1421:1436" ph="&quot;Eagle&quot;" />
-                <marker date="1499168066459" expanded="false" signature="1550:1564" ph="&quot;Duck&quot;" />
-                <marker date="1499168066459" expanded="false" signature="1721:1735" ph="&quot;Swan&quot;" />
-                <marker date="1499168066459" expanded="false" signature="2338:2358" ph="&quot;Who was the first president of Finland?&quot;" />
-                <marker date="1499168066459" expanded="false" signature="3792:3808" ph="&quot;What is the national animal of Finland?&quot;" />
-                <marker date="1499168066459" expanded="false" signature="4226:4240" ph="&quot;Brown bear&quot;" />
-                <marker date="1499168066459" expanded="false" signature="4354:4368" ph="&quot;Frog&quot;" />
-                <marker date="1499168066459" expanded="false" signature="4482:4498" ph="&quot;Bobcat&quot;" />
-                <marker date="1499168066459" expanded="false" signature="4612:4628" ph="&quot;Rabbit&quot;" />
-                <marker date="1499168066459" expanded="false" signature="5231:5249" ph="&quot;Who is the president of Finland?&quot;" />
-                <marker date="1499168066459" expanded="false" signature="6674:6693" ph="&quot;Which of these are Finland's neighboring countries?&quot;" />
-                <marker date="1499168066459" expanded="false" signature="7178:7191" ph="&quot;Sweden&quot;" />
-                <marker date="1499168066459" expanded="false" signature="7368:7381" ph="&quot;Japan&quot;" />
-                <marker date="1499168066459" expanded="false" signature="7558:7571" ph="&quot;France&quot;" />
-                <marker date="1499168066459" expanded="false" signature="7790:7803" ph="&quot;Russia&quot;" />
-                <marker date="1499168066459" expanded="false" signature="8462:8476" ph="&quot;What is Finland called in Finnish?&quot;" />
-                <marker date="1499168066459" expanded="true" signature="9150:9164" ph="&quot;Send&quot;" />
-                <marker date="1499168066459" expanded="false" signature="9284:9299" ph="&quot;Score:&quot;" />
+                <element signature="e#891#910#0" expanded="true" />
+                <marker date="1499196556120" expanded="false" signature="269:287" ph="&quot;Quiz App&quot;" />
+                <marker date="1499196556120" expanded="false" signature="716:735" ph="&quot;Practice question&quot;" />
+                <marker date="1499196556120" expanded="false" signature="1001:1022" ph="&quot;Correct Answers&quot;" />
               </folding>
             </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
@@ -1944,19 +1830,20 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/pic_list.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/Result.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/Results.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/PicList.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/CorrectAnswers.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/qlist.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/answers.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-fi/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/PicList.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/QList.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/qlist.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="301" />
     <option name="width" value="1029" />
     <option name="height" value="1047" />
   </component>
@@ -1985,7 +1872,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2047,28 +1934,6 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dimens.xml" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QuizApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2085,24 +1950,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QuizApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2147,16 +1994,12 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2172,6 +2015,24 @@
     </key>
   </component>
   <component name="RunManager" selected="Android App.app">
+    <configuration default="false" name="QuizApp:app [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -2452,9 +2313,15 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Android App.app" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.QuizApp:app [clean]" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.QuizApp:app [clean]" />
+      </list>
+    </recent_temporary>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -2529,7 +2396,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1029" height="1047" extended-state="0" />
+    <frame x="301" y="0" width="1029" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2538,21 +2405,21 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1799775" sideWeight="0.5118679" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44094488" sideWeight="0.4881321" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2935883" sideWeight="0.4881321" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2992776" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19599108" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="-90" y="849" width="1872" height="176" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2516704" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24767801" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920536" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32135418" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2617,36 +2484,29 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
           <folding>
-            <marker date="1491983356444" expanded="true" signature="107:982" ph="..." />
-            <marker date="1491983356444" expanded="true" signature="168:969" ph="..." />
-            <marker date="1491983356444" expanded="false" signature="269:287" ph="&quot;Quiz App&quot;" />
-            <marker date="1491983356444" expanded="true" signature="410:634" ph="..." />
-            <marker date="1491983356444" expanded="true" signature="438:614" ph="..." />
-            <marker date="1491983356444" expanded="true" signature="653:737" ph="..." />
-            <marker date="1491983356444" expanded="false" signature="716:735" ph="&quot;Practice question&quot;" />
-            <marker date="1491983356444" expanded="true" signature="756:838" ph="..." />
-            <marker date="1491983356444" expanded="true" signature="817:836" ph="&quot;Questions&quot;" />
-            <marker date="1491983356444" expanded="true" signature="857:950" ph="..." />
-            <marker date="1491983356444" expanded="false" signature="927:948" ph="&quot;Correct Answers&quot;" />
+            <element signature="e#891#910#0" expanded="true" />
+            <marker date="1499196556120" expanded="false" signature="269:287" ph="&quot;Quiz App&quot;" />
+            <marker date="1499196556120" expanded="false" signature="716:735" ph="&quot;Practice question&quot;" />
+            <marker date="1499196556120" expanded="false" signature="1001:1022" ph="&quot;Correct Answers&quot;" />
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pic_list.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/PicList.java">
@@ -2657,13 +2517,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
@@ -2817,29 +2677,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-          <folding>
-            <marker date="1491983356444" expanded="true" signature="107:982" ph="..." />
-            <marker date="1491983356444" expanded="true" signature="168:969" ph="..." />
-            <marker date="1491983356444" expanded="false" signature="269:287" ph="&quot;Quiz App&quot;" />
-            <marker date="1491983356444" expanded="true" signature="410:634" ph="..." />
-            <marker date="1491983356444" expanded="true" signature="438:614" ph="..." />
-            <marker date="1491983356444" expanded="true" signature="653:737" ph="..." />
-            <marker date="1491983356444" expanded="false" signature="716:735" ph="&quot;Practice question&quot;" />
-            <marker date="1491983356444" expanded="true" signature="756:838" ph="..." />
-            <marker date="1491983356444" expanded="true" signature="817:836" ph="&quot;Questions&quot;" />
-            <marker date="1491983356444" expanded="true" signature="857:950" ph="..." />
-            <marker date="1491983356444" expanded="false" signature="927:948" ph="&quot;Correct Answers&quot;" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
@@ -2853,26 +2690,6 @@
             <marker date="1491985098648" expanded="true" signature="1455:1888" ph="..." />
             <marker date="1491985098648" expanded="true" signature="1920:2272" ph="..." />
             <marker date="1491985098648" expanded="true" signature="2299:2551" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-fi/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1491984153382" expanded="true" signature="49:1937" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <marker date="1491988294904" expanded="true" signature="10:2120" ph="..." />
           </folding>
         </state>
       </provider>
@@ -2908,15 +2725,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/CorrectAnswers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/background_floral.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
           <folding>
-            <marker date="1491985098833" expanded="false" signature="46:261" ph="..." />
-            <marker date="1491985098833" expanded="true" signature="389:816" ph="{...}" />
-            <marker date="1491985098833" expanded="true" signature="557:652" ph="(view) → {" />
-            <marker date="1491985098833" expanded="true" signature="793:808" ph="}" />
+            <marker date="1491931350792" expanded="true" signature="109:1030" ph="..." />
+            <marker date="1491931350792" expanded="true" signature="411:1016" ph="..." />
+            <marker date="1491931350792" expanded="true" signature="559:648" ph="..." />
+            <marker date="1491931350792" expanded="true" signature="621:646" ph="&quot;Independent Finland turns 100 in 2017. &#10;Test how much y...&quot;" />
+            <marker date="1491931350792" expanded="true" signature="668:790" ph="..." />
+            <marker date="1491931350792" expanded="true" signature="768:788" ph="&quot;Start by pressing the flag. Good luck!&quot;" />
+            <marker date="1491931350792" expanded="true" signature="813:996" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <marker date="1491927475446" expanded="true" signature="111:1388" ph="..." />
+            <marker date="1491927475446" expanded="false" signature="266:291" ph="&quot;60dp&quot;" />
+            <marker date="1491927475446" expanded="true" signature="308:453" ph="..." />
+            <marker date="1491927475446" expanded="false" signature="370:395" ph="&quot;60dp&quot;" />
+            <marker date="1491927475446" expanded="false" signature="426:451" ph="&quot;60dp&quot;" />
+            <marker date="1491927475446" expanded="true" signature="473:1372" ph="..." />
+            <marker date="1491927475446" expanded="false" signature="589:614" ph="&quot;60dp&quot;" />
+            <marker date="1491927475446" expanded="true" signature="706:1071" ph="..." />
+            <marker date="1491927475446" expanded="true" signature="1091:1352" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pic_list.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding>
+            <marker date="1491943487517" expanded="true" signature="109:2442" ph="..." />
+            <marker date="1491943487517" expanded="true" signature="359:2428" ph="..." />
+            <marker date="1491943487517" expanded="true" signature="472:2406" ph="..." />
+            <marker date="1491943487517" expanded="true" signature="636:726" ph="..." />
+            <marker date="1491943487517" expanded="false" signature="706:724" ph="&quot;Which one of these is the Finnish flag?&quot;" />
+            <marker date="1491943487517" expanded="true" signature="754:1420" ph="..." />
+            <marker date="1491943487517" expanded="true" signature="978:1168" ph="..." />
+            <marker date="1491943487517" expanded="true" signature="1199:1392" ph="..." />
+            <marker date="1491943487517" expanded="true" signature="1448:2111" ph="..." />
+            <marker date="1491943487517" expanded="true" signature="1672:1860" ph="..." />
+            <marker date="1491943487517" expanded="true" signature="1891:2083" ph="..." />
+            <marker date="1491943487517" expanded="true" signature="2135:2382" ph="..." />
+            <marker date="1491943487517" expanded="false" signature="2365:2380" ph="&quot;Score:&quot;" />
           </folding>
         </state>
       </provider>
@@ -2934,81 +2808,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/PicList.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/CorrectAnswers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="64" column="7" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="7" />
+        <state relative-caret-position="323">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
           <folding>
-            <marker date="1491982537683" expanded="false" signature="45:292" ph="..." />
-            <marker date="1491982537683" expanded="true" signature="441:2166" ph="{...}" />
-            <marker date="1491982537683" expanded="false" signature="719:814" ph="(view) → {" />
-            <marker date="1491982537683" expanded="false" signature="846:893" ph="&quot;Correct!&quot;" />
-            <marker date="1491982537683" expanded="false" signature="1030:1116" ph="() → {" />
-            <marker date="1491982537683" expanded="false" signature="1267:1290" ph="}" />
-            <marker date="1491982537683" expanded="false" signature="1307:1322" ph="}" />
-            <marker date="1491982537683" expanded="false" signature="1419:1514" ph="(view) → {" />
-            <marker date="1491982537683" expanded="false" signature="1586:1601" ph="}" />
-            <marker date="1491982537683" expanded="false" signature="1698:1793" ph="(view) → {" />
-            <marker date="1491982537683" expanded="false" signature="1865:1880" ph="}" />
-            <marker date="1491982537683" expanded="false" signature="1978:2073" ph="(view) → {" />
-            <marker date="1491982537683" expanded="false" signature="2143:2158" ph="}" />
-            <marker date="1491982537683" expanded="true" signature="2212:2313" ph="{...}" />
-            <marker date="1491982537683" expanded="true" signature="2346:2563" ph="{...}" />
-            <marker date="1491982537683" expanded="true" signature="2444:2484" ph="&quot;Score:&quot;" />
-            <marker date="1491982537683" expanded="true" signature="2603:3256" ph="{...}" />
-            <marker date="1491982537683" expanded="false" signature="2635:2680" ph="&quot;Try again. This is the flag of &quot;" />
-            <marker date="1491982537683" expanded="false" signature="2789:2828" ph="&quot;Scotland.&quot;" />
-            <marker date="1491982537683" expanded="false" signature="2911:2952" ph="&quot;Sweden.&quot;" />
-            <marker date="1491982537683" expanded="false" signature="3035:3076" ph="&quot;Greece.&quot;" />
+            <marker date="1491985098833" expanded="false" signature="46:261" ph="..." />
+            <marker date="1491985098833" expanded="true" signature="389:816" ph="{...}" />
+            <marker date="1491985098833" expanded="true" signature="557:652" ph="(view) → {" />
+            <marker date="1491985098833" expanded="true" signature="793:808" ph="}" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/QList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
-          <folding>
-            <marker date="1491988294843" expanded="false" signature="46:450" ph="..." />
-            <marker date="1491988294843" expanded="true" signature="596:769" ph="{...}" />
-            <marker date="1491988294843" expanded="true" signature="802:1019" ph="{...}" />
-            <marker date="1491988294843" expanded="false" signature="900:940" ph="&quot;Score:&quot;" />
-            <marker date="1491988294843" expanded="true" signature="1060:2759" ph="{...}" />
-            <marker date="1491988294843" expanded="false" signature="2331:2372" ph="&quot;Congratulations! Your score is&quot;" />
-            <marker date="1491988294843" expanded="false" signature="2522:2592" ph="() → {" />
-            <marker date="1491988294843" expanded="false" signature="2730:2745" ph="}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/background_floral.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <marker date="1491931350792" expanded="true" signature="109:1030" ph="..." />
-            <marker date="1491931350792" expanded="true" signature="411:1016" ph="..." />
-            <marker date="1491931350792" expanded="true" signature="559:648" ph="..." />
-            <marker date="1491931350792" expanded="true" signature="621:646" ph="&quot;Independent Finland turns 100 in 2017. &#10;Test how much y...&quot;" />
-            <marker date="1491931350792" expanded="true" signature="668:790" ph="..." />
-            <marker date="1491931350792" expanded="true" signature="768:788" ph="&quot;Start by pressing the flag. Good luck!&quot;" />
-            <marker date="1491931350792" expanded="true" signature="813:996" ph="..." />
-          </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/answers.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        <state relative-caret-position="327">
+          <caret line="63" column="41" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
           <folding>
             <marker date="1491985098917" expanded="true" signature="109:2489" ph="..." />
             <marker date="1491985098917" expanded="true" signature="245:2475" ph="..." />
@@ -3030,7 +2849,7 @@
             <marker date="1491985098917" expanded="false" signature="1589:1608" ph="&quot;Which of these are Finland's neighboring countries?&quot;" />
             <marker date="1491985098917" expanded="true" signature="1634:2013" ph="..." />
             <marker date="1491985098917" expanded="true" signature="1799:1882" ph="..." />
-            <marker date="1491985098917" expanded="false" signature="1867:1880" ph="&quot;Sweden&quot;" />
+            <marker date="1491985098917" expanded="true" signature="1867:1880" ph="&quot;Sweden&quot;" />
             <marker date="1491985098917" expanded="true" signature="1906:1989" ph="..." />
             <marker date="1491985098917" expanded="false" signature="1974:1987" ph="&quot;Russia&quot;" />
             <marker date="1491985098917" expanded="true" signature="2033:2149" ph="..." />
@@ -3042,86 +2861,169 @@
           </folding>
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
           <folding>
-            <marker date="1491927475446" expanded="true" signature="111:1388" ph="..." />
-            <marker date="1491927475446" expanded="false" signature="266:291" ph="&quot;60dp&quot;" />
-            <marker date="1491927475446" expanded="true" signature="308:453" ph="..." />
-            <marker date="1491927475446" expanded="false" signature="370:395" ph="&quot;60dp&quot;" />
-            <marker date="1491927475446" expanded="false" signature="426:451" ph="&quot;60dp&quot;" />
-            <marker date="1491927475446" expanded="true" signature="473:1372" ph="..." />
-            <marker date="1491927475446" expanded="false" signature="589:614" ph="&quot;60dp&quot;" />
-            <marker date="1491927475446" expanded="true" signature="706:1071" ph="..." />
-            <marker date="1491927475446" expanded="true" signature="1091:1352" ph="..." />
+            <marker date="1499182989784" expanded="true" signature="10:2116" ph="..." />
           </folding>
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pic_list.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-fi/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
           <folding>
-            <marker date="1491943487517" expanded="true" signature="109:2442" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="359:2428" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="472:2406" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="636:726" ph="..." />
-            <marker date="1491943487517" expanded="false" signature="706:724" ph="&quot;Which one of these is the Finnish flag?&quot;" />
-            <marker date="1491943487517" expanded="true" signature="754:1420" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="978:1168" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="1199:1392" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="1448:2111" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="1672:1860" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="1891:2083" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="2135:2382" ph="..." />
-            <marker date="1491943487517" expanded="false" signature="2365:2380" ph="&quot;Score:&quot;" />
+            <marker date="1499182989744" expanded="true" signature="49:1939" ph="..." />
           </folding>
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/qlist.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="202" column="41" selection-start-line="202" selection-start-column="41" selection-end-line="202" selection-end-column="41" />
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="196" column="38" selection-start-line="196" selection-start-column="38" selection-end-line="196" selection-end-column="38" />
           <folding>
-            <marker date="1499168066459" expanded="false" signature="860:874" ph="&quot;What is the national bird of Finland?&quot;" />
-            <marker date="1499168066459" expanded="false" signature="1291:1307" ph="&quot;Pigeon&quot;" />
-            <marker date="1499168066459" expanded="false" signature="1421:1436" ph="&quot;Eagle&quot;" />
-            <marker date="1499168066459" expanded="false" signature="1550:1564" ph="&quot;Duck&quot;" />
-            <marker date="1499168066459" expanded="false" signature="1721:1735" ph="&quot;Swan&quot;" />
-            <marker date="1499168066459" expanded="false" signature="2338:2358" ph="&quot;Who was the first president of Finland?&quot;" />
-            <marker date="1499168066459" expanded="false" signature="3792:3808" ph="&quot;What is the national animal of Finland?&quot;" />
-            <marker date="1499168066459" expanded="false" signature="4226:4240" ph="&quot;Brown bear&quot;" />
-            <marker date="1499168066459" expanded="false" signature="4354:4368" ph="&quot;Frog&quot;" />
-            <marker date="1499168066459" expanded="false" signature="4482:4498" ph="&quot;Bobcat&quot;" />
-            <marker date="1499168066459" expanded="false" signature="4612:4628" ph="&quot;Rabbit&quot;" />
-            <marker date="1499168066459" expanded="false" signature="5231:5249" ph="&quot;Who is the president of Finland?&quot;" />
-            <marker date="1499168066459" expanded="false" signature="6674:6693" ph="&quot;Which of these are Finland's neighboring countries?&quot;" />
-            <marker date="1499168066459" expanded="false" signature="7178:7191" ph="&quot;Sweden&quot;" />
-            <marker date="1499168066459" expanded="false" signature="7368:7381" ph="&quot;Japan&quot;" />
-            <marker date="1499168066459" expanded="false" signature="7558:7571" ph="&quot;France&quot;" />
-            <marker date="1499168066459" expanded="false" signature="7790:7803" ph="&quot;Russia&quot;" />
-            <marker date="1499168066459" expanded="false" signature="8462:8476" ph="&quot;What is Finland called in Finnish?&quot;" />
-            <marker date="1499168066459" expanded="true" signature="9150:9164" ph="&quot;Send&quot;" />
-            <marker date="1499168066459" expanded="false" signature="9284:9299" ph="&quot;Score:&quot;" />
+            <marker date="1499182614332" expanded="true" signature="109:9419" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="358:9405" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="544:1787" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="748:876" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="860:874" ph="&quot;What is the national bird of Finland?&quot;" />
+            <marker date="1499182614332" expanded="true" signature="902:1763" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="1210:1309" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="1291:1307" ph="&quot;Pigeon&quot;" />
+            <marker date="1499182614332" expanded="true" signature="1340:1438" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="1421:1436" ph="&quot;Eagle&quot;" />
+            <marker date="1499182614332" expanded="true" signature="1469:1566" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="1550:1564" ph="&quot;Duck&quot;" />
+            <marker date="1499182614332" expanded="true" signature="1597:1737" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="1721:1735" ph="&quot;Swan&quot;" />
+            <marker date="1499182614332" expanded="true" signature="1803:1998" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="2022:3241" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="2226:2360" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="2338:2358" ph="&quot;Who was the first president of Finland?&quot;" />
+            <marker date="1499182614332" expanded="true" signature="2386:3217" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="2656:2758" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="2789:2932" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="2963:3062" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="3093:3191" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="3257:3452" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="3476:4680" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="3680:3810" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="3792:3808" ph="&quot;What is the national animal of Finland?&quot;" />
+            <marker date="1499182614332" expanded="true" signature="3836:4656" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="4102:4242" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="4226:4240" ph="&quot;Brown bear&quot;" />
+            <marker date="1499182614332" expanded="true" signature="4273:4370" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="4354:4368" ph="&quot;Frog&quot;" />
+            <marker date="1499182614332" expanded="true" signature="4401:4500" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="4482:4498" ph="&quot;Bobcat&quot;" />
+            <marker date="1499182614332" expanded="true" signature="4531:4630" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="4612:4628" ph="&quot;Rabbit&quot;" />
+            <marker date="1499182614332" expanded="true" signature="4696:4891" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="4915:6123" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="5119:5251" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="5231:5249" ph="&quot;Who is the president of Finland?&quot;" />
+            <marker date="1499182614332" expanded="true" signature="5277:6099" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="5541:5639" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="5670:5771" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="5802:5900" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="5931:6073" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="6139:6334" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="6358:7941" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="6562:6695" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="6674:6693" ph="&quot;Which of these are Finland's neighboring countries?&quot;" />
+            <marker date="1499182614332" expanded="true" signature="6723:7917" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="6989:7193" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="7178:7191" ph="&quot;Sweden&quot;" />
+            <marker date="1499182614332" expanded="true" signature="7221:7425" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="7410:7423" ph="&quot;Japan&quot;" />
+            <marker date="1499182614332" expanded="true" signature="7453:7657" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="7642:7655" ph="&quot;France&quot;" />
+            <marker date="1499182614332" expanded="true" signature="7685:7889" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="7874:7887" ph="&quot;Russia&quot;" />
+            <marker date="1499182614332" expanded="true" signature="7961:8172" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="8200:9076" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="8422:8562" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="8546:8560" ph="&quot;What is Finland called in Finnish?&quot;" />
+            <marker date="1499182614332" expanded="true" signature="8590:8797" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="8821:9048" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="9094:9250" ph="..." />
+            <marker date="1499182614332" expanded="true" signature="9234:9248" ph="&quot;Send&quot;" />
+            <marker date="1499182614332" expanded="true" signature="9270:9385" ph="..." />
+            <marker date="1499182614332" expanded="false" signature="9368:9383" ph="&quot;Score:&quot;" />
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-designer2">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/PicList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-404">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <marker date="1499196384905" expanded="false" signature="45:292" ph="..." />
+            <marker date="1499196384905" expanded="true" signature="437:2162" ph="{...}" />
+            <marker date="1499196384905" expanded="false" signature="715:810" ph="(view) → {" />
+            <marker date="1499196384905" expanded="false" signature="842:889" ph="&quot;Correct!&quot;" />
+            <marker date="1499196384905" expanded="false" signature="1026:1112" ph="() → {" />
+            <marker date="1499196384905" expanded="false" signature="1263:1286" ph="}" />
+            <marker date="1499196384905" expanded="false" signature="1303:1318" ph="}" />
+            <marker date="1499196384905" expanded="false" signature="1415:1510" ph="(view) → {" />
+            <marker date="1499196384905" expanded="false" signature="1582:1597" ph="}" />
+            <marker date="1499196384905" expanded="false" signature="1694:1789" ph="(view) → {" />
+            <marker date="1499196384905" expanded="false" signature="1861:1876" ph="}" />
+            <marker date="1499196384905" expanded="false" signature="1974:2069" ph="(view) → {" />
+            <marker date="1499196384905" expanded="false" signature="2139:2154" ph="}" />
+            <marker date="1499196384905" expanded="true" signature="2208:2309" ph="{...}" />
+            <marker date="1499196384905" expanded="true" signature="2342:2559" ph="{...}" />
+            <marker date="1499196384905" expanded="true" signature="2440:2480" ph="&quot;Score:&quot;" />
+            <marker date="1499196384905" expanded="true" signature="2599:3252" ph="{...}" />
+            <marker date="1499196384905" expanded="false" signature="2631:2676" ph="&quot;Try again. This is the flag of &quot;" />
+            <marker date="1499196384905" expanded="false" signature="2785:2824" ph="&quot;Scotland.&quot;" />
+            <marker date="1499196384905" expanded="false" signature="2907:2948" ph="&quot;Sweden.&quot;" />
+            <marker date="1499196384905" expanded="false" signature="3031:3072" ph="&quot;Greece.&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/QList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="77" column="23" selection-start-line="77" selection-start-column="23" selection-end-line="77" selection-end-column="23" />
+          <folding>
+            <marker date="1499196384965" expanded="false" signature="46:450" ph="..." />
+            <marker date="1499196384965" expanded="true" signature="596:769" ph="{...}" />
+            <marker date="1499196384965" expanded="true" signature="802:1019" ph="{...}" />
+            <marker date="1499196384965" expanded="false" signature="900:940" ph="&quot;Score:&quot;" />
+            <marker date="1499196384965" expanded="true" signature="1060:3118" ph="{...}" />
+            <marker date="1499196384965" expanded="false" signature="2690:2731" ph="&quot;Congratulations! Your score is&quot;" />
+            <marker date="1499196384965" expanded="false" signature="2881:2951" ph="() → {" />
+            <marker date="1499196384965" expanded="false" signature="3089:3104" ph="}" />
+            <marker date="1499196384965" expanded="true" signature="3149:3212" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="e#891#910#0" expanded="true" />
+            <marker date="1499196556120" expanded="false" signature="269:287" ph="&quot;Quiz App&quot;" />
+            <marker date="1499196556120" expanded="false" signature="716:735" ph="&quot;Practice question&quot;" />
+            <marker date="1499196556120" expanded="false" signature="1001:1022" ph="&quot;Correct Answers&quot;" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

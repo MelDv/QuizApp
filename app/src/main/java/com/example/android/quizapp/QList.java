@@ -37,41 +37,45 @@ public class QList extends AppCompatActivity {
         RadioGroup bird = (RadioGroup) findViewById(R.id.birds);
         RadioButton r1 = (RadioButton) findViewById(R.id.swan);
         if (r1.isChecked()) {
-            score++;
+            addPoint();
         }
 
         RadioGroup pres_first = (RadioGroup) findViewById(R.id.pres_first);
         RadioButton r2 = (RadioButton) findViewById(R.id.stahl);
         if (r2.isChecked()) {
-            score++;
+            addPoint();
         }
 
         RadioGroup animal = (RadioGroup) findViewById(R.id.animal);
         RadioButton r3 = (RadioButton) findViewById(R.id.bear);
         if (r3.isChecked()) {
-            score++;
+            addPoint();
         }
 
         RadioGroup pres = (RadioGroup) findViewById(R.id.pres);
         RadioButton r4 = (RadioButton) findViewById(R.id.sale);
         if (r4.isChecked()) {
-            score++;
-        }
-
-        CheckBox swe = (CheckBox) findViewById(R.id.swe);
-        if (swe.isChecked()) {
-            score++;
+            addPoint();
         }
 
         CheckBox rus = (CheckBox) findViewById(R.id.rus);
-        if (rus.isChecked()) {
-            score++;
+        CheckBox swe = (CheckBox) findViewById(R.id.swe);
+        CheckBox jap = (CheckBox) findViewById(R.id.jap);
+        CheckBox fra = (CheckBox) findViewById(R.id.fra);
+
+        if (swe.isChecked() && rus.isChecked() && !jap.isChecked() && !fra.isChecked()) {
+            addPoint();
+            addPoint();
+        } else if (swe.isChecked() && rus.isChecked() && jap.isChecked() && fra.isChecked()) {
+            score = score;
+        } else if (swe.isChecked() || rus.isChecked()) {
+            addPoint();
         }
 
         EditText name = (EditText) findViewById(R.id.fin_name);
         String fin = name.getText().toString().toLowerCase().trim();
-        if (fin.contains("suomi")){
-            score++;
+        if (fin.contains("suomi")) {
+            addPoint();
         }
 
         displayScore();
@@ -85,5 +89,12 @@ public class QList extends AppCompatActivity {
                 startActivity(answerIntent);
             }
         }, 1500);
+    }
+
+
+    private void addPoint() {
+        if (score < 8) {
+            score++;
+        }
     }
 }

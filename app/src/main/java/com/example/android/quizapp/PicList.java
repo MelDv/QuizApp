@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 public class PicList extends AppCompatActivity {
 
-    private int score = 0;
+    private int score;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

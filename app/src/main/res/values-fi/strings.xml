@@ -29,8 +29,8 @@
     <string name="label_three">Oikeat vastaukset</string>
     <string name="fra">Ranska</string>
     <string name="jap">Japani</string>
-    <string name="rus">Venäjä</string>
-    <string name="swe">Ruotsi</string>
+    <string name="rus">Venäjä </string>
+    <string name="swe">Ruotsi </string>
     <string name="name">Kirjoita tähän vielä maamme nimi:</string>
     <string name="points">"Onneksi olkoon! Pistemääräsi on "</string>
     <string name="back">Pelaa uudestaan!</string>
