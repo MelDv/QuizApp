@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\4d781c2be11bbea306ff42b4b5270af45352bb36\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f90a1170cb32759cbbfe4ecd442708d980f79f2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\maela\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
         jumboMode="true"
         optimize="true"
@@ -12,39 +21,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\maela\.android\build-cache\8765d87088851ed7fc2b81a5ec2ca287ef214647\output\jars\classes.jar"
+        jar="C:\Users\maela\.android\build-cache\38fb626240cbc67ac5a955883aee54a9724b3d22\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35abf279e7a63fb9c4e831190edae2d9ac11581c\classes.dex" />
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40e6721a01e902070a4232cff6dcaa3f338368d8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\maela\.android\build-cache\97c7e33bfa6d2b6398c6d56d71fb10921d6b15b6\output\jars\classes.jar"
+        jar="C:\Users\maela\.android\build-cache\26a339bc7fa5b66f0cf3f52ebda32ca7d3a4e234\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ae6b4bdcad7c6e5a85c4eb3f0ee7435c4c15eda\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\maela\.android\build-cache\2706c6623de82b34dc7d31ac877ec250bcce99c5\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec48eb49929bbe64ecaf950c83a8e4086bc9f7cf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\maela\.android\build-cache\d337753e479f1545795bc391334c6a17b8f3418c\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0cbdcdb886b2a309997e6ad5ad8639901cfcc2c\classes.dex" />
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40acebab70bdad9df1caf17be730717443ef2970\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -52,8 +43,35 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="30c1f0d559d5934837362a89a90fb6586592f7c2">
+        sha1="0f18e7051aa6fccb3a2e01b040460fbd3e9b1c44">
         <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_65880e10ca8bf1fb8f259e35d527d9daec047c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\d6c466d2a62bc2657fd6aa96f28226c375366459\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbbcca39cf3732114987f099c7b0ddd44b564c72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\e6ec62a002c0cd950381583e75f337d117938335\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0fe04eecb1c6e122d24873a500d559d159772ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\70dfa6eb0d0c8268d3b427ec58c690fbed412039\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57706af3a03f3e648a1b437983eb7425cada9ce3\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -61,53 +79,35 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_684a5eeab3f462daa5c319f059031aaaf12a92a5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\maela\.android\build-cache\a4cc4a187162afbf12806977806108af7bab981e\output\jars\classes.jar"
+        jar="C:\Users\maela\.android\build-cache\8312c6c1292820094825bfad8b9869f0848590f4\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c898866e6cc35cf45dad68b64c3d56efa414aceb\classes.dex" />
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_787e1eeff532cb7c4487b7e66355b3915b62b0cc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\maela\.android\build-cache\23fd60a608cba546945e1e316ee367db4e4ffa2f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5d04aafb59dec006fa226d118d16eabdd86f098\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\maela\.android\build-cache\5643c0e5a12bb48abee514107f0e09450bf11046\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af6b836fb898ed4affb04186bf8db131b8df68bf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\maela\.android\build-cache\6558c22d9f1465b6296b3da78090e8fb059de35e\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5862d121fbab3543bcca420f72e06f6cbb75408e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\maela\.android\build-cache\46f2846990ab83edb19a5ccc3707beef17e4461d\output\jars\classes.jar"
+        jar="C:\Users\maela\.android\build-cache\1e1eaceda5cb5c0653a3894cb1b38050bc5d56a6\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_399f6d1c5266e066d2a95752c698871de2a984a7\classes.dex" />
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d051880344475164766f231896ff9440230cf01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maela\.android\build-cache\16dafbc13b24f545a7fa338c6f9662fd5847682c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\maela\AndroidStudioProjects\QuizApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1589ef1a991d2db90bd202fb219964f16ea859dc\classes.dex" />
     </item>
 
 </items>
