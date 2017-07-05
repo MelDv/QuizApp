@@ -82,6 +82,7 @@ public class QList extends AppCompatActivity {
         String points = getResources().getString(R.string.points);
         Toast toast = Toast.makeText(this, points + " " + score + "/8", Toast.LENGTH_LONG);
         toast.show();
+        score = 1;
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
