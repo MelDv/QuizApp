@@ -76,20 +76,20 @@
 
                 <RadioButton
                     style="@style/radiobutton"
-                    android:text="Riitta Uosukainen" />
+                    android:text="@string/riitta_uosukainen" />
 
                 <RadioButton
                     android:id="@+id/stahl"
                     style="@style/radiobutton"
-                    android:text="K.J. Ståhlberg" />
+                    android:text="@string/k_j_st_hlberg" />
 
                 <RadioButton
                     style="@style/radiobutton"
-                    android:text="Sauli Niinistö" />
+                    android:text="@string/sauli_niinist" />
 
                 <RadioButton
                     style="@style/radiobutton"
-                    android:text="U.K. Kekkonen" />
+                    android:text="@string/u_k_kekkonen" />
             </RadioGroup>
         </LinearLayout>
 
@@ -162,20 +162,20 @@
 
                 <RadioButton
                     style="@style/radiobutton"
-                    android:text="Tarja Halonen" />
+                    android:text="@string/tarja_halonen" />
 
                 <RadioButton
                     style="@style/radiobutton"
-                    android:text="Martti Ahtisaari" />
+                    android:text="@string/martti_ahtisaari" />
 
                 <RadioButton
                     style="@style/radiobutton"
-                    android:text="Matti Nykänen" />
+                    android:text="@string/matti_nyk_nen" />
 
                 <RadioButton
                     android:id="@+id/sale"
                     style="@style/radiobutton"
-                    android:text="Sauli Niinistö" />
+                    android:text="@string/sauli_niinist" />
             </RadioGroup>
         </LinearLayout>
 

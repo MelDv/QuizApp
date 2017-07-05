@@ -9,7 +9,6 @@ import android.view.View;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.RadioButton;
-import android.widget.RadioGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -23,7 +22,6 @@ public class QList extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(qlist);
 
-        TextView scoreView = (TextView) findViewById(R.id.score);
         displayScore();
     }
 
@@ -34,25 +32,21 @@ public class QList extends AppCompatActivity {
     }
 
     public void countPoints(View view) {
-        RadioGroup bird = (RadioGroup) findViewById(R.id.birds);
         RadioButton r1 = (RadioButton) findViewById(R.id.swan);
         if (r1.isChecked()) {
             addPoint();
         }
 
-        RadioGroup pres_first = (RadioGroup) findViewById(R.id.pres_first);
         RadioButton r2 = (RadioButton) findViewById(R.id.stahl);
         if (r2.isChecked()) {
             addPoint();
         }
 
-        RadioGroup animal = (RadioGroup) findViewById(R.id.animal);
         RadioButton r3 = (RadioButton) findViewById(R.id.bear);
         if (r3.isChecked()) {
             addPoint();
         }
 
-        RadioGroup pres = (RadioGroup) findViewById(R.id.pres);
         RadioButton r4 = (RadioButton) findViewById(R.id.sale);
         if (r4.isChecked()) {
             addPoint();

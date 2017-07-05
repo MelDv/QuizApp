@@ -15,11 +15,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/QList.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/QList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/pic_list.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/pic_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/qlist.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/qlist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
     </list>
     <ignored path="Quiz App.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,14 +62,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="QList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/QList.java">
+      <file leaf-file-name="qlist.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/qlist.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+            <state relative-caret-position="248">
+              <caret line="243" column="25" selection-start-line="243" selection-start-column="25" selection-end-line="243" selection-end-column="25" />
               <folding>
-                <marker date="1499246536526" expanded="false" signature="900:940" ph="&quot;Score:&quot;" />
-                <marker date="1499246536526" expanded="true" signature="2690:2731" ph="&quot;Congratulations! Your score is&quot;" />
+                <element signature="e#2737#2764#0" expanded="true" />
+                <element signature="e#2922#2945#0" expanded="true" />
+                <element signature="e#3059#3082#0" expanded="true" />
+                <element signature="e#3196#3218#0" expanded="true" />
+                <element signature="e#5651#5674#0" expanded="true" />
+                <element signature="e#5788#5814#0" expanded="true" />
+                <element signature="e#5928#5951#0" expanded="true" />
+                <element signature="e#6108#6131#0" expanded="true" />
+                <marker date="1499285691030" expanded="false" signature="860:874" ph="&quot;What is the national bird of Finland?&quot;" />
+                <marker date="1499285691030" expanded="true" signature="1291:1307" ph="&quot;Pigeon&quot;" />
+                <marker date="1499285691030" expanded="false" signature="1421:1436" ph="&quot;Eagle&quot;" />
+                <marker date="1499285691030" expanded="false" signature="1550:1564" ph="&quot;Duck&quot;" />
+                <marker date="1499285691030" expanded="false" signature="1721:1735" ph="&quot;Swan&quot;" />
+                <marker date="1499285691030" expanded="false" signature="2338:2358" ph="&quot;Who was the first president of Finland?&quot;" />
+                <marker date="1499285691030" expanded="false" signature="3821:3837" ph="&quot;What is the national animal of Finland?&quot;" />
+                <marker date="1499285691030" expanded="false" signature="4255:4269" ph="&quot;Brown bear&quot;" />
+                <marker date="1499285691030" expanded="false" signature="4383:4397" ph="&quot;Frog&quot;" />
+                <marker date="1499285691030" expanded="false" signature="4511:4527" ph="&quot;Bobcat&quot;" />
+                <marker date="1499285691030" expanded="false" signature="4641:4657" ph="&quot;Rabbit&quot;" />
+                <marker date="1499285691030" expanded="false" signature="5260:5278" ph="&quot;Who is the president of Finland?&quot;" />
+                <marker date="1499285691030" expanded="true" signature="6734:6753" ph="&quot;Which of these are Finland's neighboring countries?&quot;" />
+                <marker date="1499285691030" expanded="false" signature="7238:7251" ph="&quot;Sweden&quot;" />
+                <marker date="1499285691030" expanded="false" signature="7470:7483" ph="&quot;Japan&quot;" />
+                <marker date="1499285691030" expanded="false" signature="7702:7715" ph="&quot;France&quot;" />
+                <marker date="1499285691030" expanded="false" signature="7934:7947" ph="&quot;Russia&quot;" />
+                <marker date="1499285691030" expanded="false" signature="8606:8620" ph="&quot;What is Finland called in Finnish?&quot;" />
+                <marker date="1499285691030" expanded="true" signature="9294:9308" ph="&quot;Send&quot;" />
+                <marker date="1499285691030" expanded="false" signature="9428:9443" ph="&quot;Score:&quot;" />
               </folding>
             </state>
           </provider>
@@ -1798,24 +1830,24 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/History.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/list.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/pic_list.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/Result.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/Results.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/CorrectAnswers.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/qlist.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/answers.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-fi/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/PicList.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/QList.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/pic_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/qlist.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="301" />
-    <option name="width" value="1029" />
+    <option name="x" value="804" />
+    <option name="width" value="1044" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1843,7 +1875,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
@@ -1866,10 +1898,6 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1885,26 +1913,8 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="strings.xml" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QuizApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1951,8 +1961,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2349,7 +2359,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="301" y="0" width="1029" height="1047" extended-state="0" />
+    <frame x="804" y="0" width="1044" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2359,13 +2369,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1799775" sideWeight="0.5118679" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2935883" sideWeight="0.4881321" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2992776" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19599108" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="-90" y="849" width="1872" height="176" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2516704" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24767801" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25084364" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24390244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920536" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32135418" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2382,7 +2393,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2992776" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -2730,31 +2740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pic_list.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
-          <folding>
-            <marker date="1491943487517" expanded="true" signature="109:2442" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="359:2428" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="472:2406" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="636:726" ph="..." />
-            <marker date="1491943487517" expanded="false" signature="706:724" ph="&quot;Which one of these is the Finnish flag?&quot;" />
-            <marker date="1491943487517" expanded="true" signature="754:1420" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="978:1168" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="1199:1392" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="1448:2111" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="1672:1860" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="1891:2083" ph="..." />
-            <marker date="1491943487517" expanded="true" signature="2135:2382" ph="..." />
-            <marker date="1491943487517" expanded="false" signature="2365:2380" ph="&quot;Score:&quot;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -2820,86 +2805,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/qlist.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="3332">
-          <caret line="196" column="38" selection-start-line="196" selection-start-column="38" selection-end-line="196" selection-end-column="38" />
-          <folding>
-            <marker date="1499182614332" expanded="true" signature="109:9419" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="358:9405" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="544:1787" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="748:876" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="860:874" ph="&quot;What is the national bird of Finland?&quot;" />
-            <marker date="1499182614332" expanded="true" signature="902:1763" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="1210:1309" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="1291:1307" ph="&quot;Pigeon&quot;" />
-            <marker date="1499182614332" expanded="true" signature="1340:1438" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="1421:1436" ph="&quot;Eagle&quot;" />
-            <marker date="1499182614332" expanded="true" signature="1469:1566" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="1550:1564" ph="&quot;Duck&quot;" />
-            <marker date="1499182614332" expanded="true" signature="1597:1737" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="1721:1735" ph="&quot;Swan&quot;" />
-            <marker date="1499182614332" expanded="true" signature="1803:1998" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="2022:3241" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="2226:2360" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="2338:2358" ph="&quot;Who was the first president of Finland?&quot;" />
-            <marker date="1499182614332" expanded="true" signature="2386:3217" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="2656:2758" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="2789:2932" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="2963:3062" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="3093:3191" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="3257:3452" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="3476:4680" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="3680:3810" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="3792:3808" ph="&quot;What is the national animal of Finland?&quot;" />
-            <marker date="1499182614332" expanded="true" signature="3836:4656" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="4102:4242" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="4226:4240" ph="&quot;Brown bear&quot;" />
-            <marker date="1499182614332" expanded="true" signature="4273:4370" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="4354:4368" ph="&quot;Frog&quot;" />
-            <marker date="1499182614332" expanded="true" signature="4401:4500" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="4482:4498" ph="&quot;Bobcat&quot;" />
-            <marker date="1499182614332" expanded="true" signature="4531:4630" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="4612:4628" ph="&quot;Rabbit&quot;" />
-            <marker date="1499182614332" expanded="true" signature="4696:4891" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="4915:6123" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="5119:5251" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="5231:5249" ph="&quot;Who is the president of Finland?&quot;" />
-            <marker date="1499182614332" expanded="true" signature="5277:6099" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="5541:5639" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="5670:5771" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="5802:5900" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="5931:6073" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="6139:6334" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="6358:7941" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="6562:6695" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="6674:6693" ph="&quot;Which of these are Finland's neighboring countries?&quot;" />
-            <marker date="1499182614332" expanded="true" signature="6723:7917" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="6989:7193" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="7178:7191" ph="&quot;Sweden&quot;" />
-            <marker date="1499182614332" expanded="true" signature="7221:7425" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="7410:7423" ph="&quot;Japan&quot;" />
-            <marker date="1499182614332" expanded="true" signature="7453:7657" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="7642:7655" ph="&quot;France&quot;" />
-            <marker date="1499182614332" expanded="true" signature="7685:7889" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="7874:7887" ph="&quot;Russia&quot;" />
-            <marker date="1499182614332" expanded="true" signature="7961:8172" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="8200:9076" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="8422:8562" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="8546:8560" ph="&quot;What is Finland called in Finnish?&quot;" />
-            <marker date="1499182614332" expanded="true" signature="8590:8797" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="8821:9048" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="9094:9250" ph="..." />
-            <marker date="1499182614332" expanded="true" signature="9234:9248" ph="&quot;Send&quot;" />
-            <marker date="1499182614332" expanded="true" signature="9270:9385" ph="..." />
-            <marker date="1499182614332" expanded="false" signature="9368:9383" ph="&quot;Score:&quot;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -2958,18 +2863,90 @@
         <state relative-caret-position="670">
           <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
           <folding>
-            <marker date="1499182989784" expanded="true" signature="10:2116" ph="..." />
+            <marker date="1499285691271" expanded="true" signature="10:2523" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/quizapp/QList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        <state relative-caret-position="-306">
+          <caret line="0" column="34" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="34" />
           <folding>
-            <marker date="1499246536526" expanded="false" signature="900:940" ph="&quot;Score:&quot;" />
-            <marker date="1499246536526" expanded="true" signature="2690:2731" ph="&quot;Congratulations! Your score is&quot;" />
+            <marker date="1499285444302" expanded="false" signature="46:416" ph="..." />
+            <marker date="1499285444302" expanded="true" signature="562:669" ph="{...}" />
+            <marker date="1499285444302" expanded="true" signature="702:919" ph="{...}" />
+            <marker date="1499285444302" expanded="false" signature="800:840" ph="&quot;Score:&quot;" />
+            <marker date="1499285444302" expanded="true" signature="960:2764" ph="{...}" />
+            <marker date="1499285444302" expanded="true" signature="2317:2358" ph="&quot;Congratulations! Your score is&quot;" />
+            <marker date="1499285444302" expanded="false" signature="2527:2597" ph="() → {" />
+            <marker date="1499285444302" expanded="false" signature="2735:2750" ph="}" />
+            <marker date="1499285444302" expanded="true" signature="2795:2858" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pic_list.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <marker date="1499285691217" expanded="true" signature="109:2442" ph="..." />
+            <marker date="1499285691217" expanded="true" signature="359:2428" ph="..." />
+            <marker date="1499285691217" expanded="true" signature="472:2406" ph="..." />
+            <marker date="1499285691217" expanded="true" signature="636:726" ph="..." />
+            <marker date="1499285691217" expanded="false" signature="706:724" ph="&quot;Which one of these is the Finnish flag?&quot;" />
+            <marker date="1499285691217" expanded="true" signature="754:1420" ph="..." />
+            <marker date="1499285691217" expanded="true" signature="978:1168" ph="..." />
+            <marker date="1499285691217" expanded="true" signature="1199:1392" ph="..." />
+            <marker date="1499285691217" expanded="true" signature="1448:2111" ph="..." />
+            <marker date="1499285691217" expanded="true" signature="1672:1860" ph="..." />
+            <marker date="1499285691217" expanded="true" signature="1891:2083" ph="..." />
+            <marker date="1499285691217" expanded="true" signature="2135:2382" ph="..." />
+            <marker date="1499285691217" expanded="false" signature="2365:2380" ph="&quot;Score:&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/qlist.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="243" column="25" selection-start-line="243" selection-start-column="25" selection-end-line="243" selection-end-column="25" />
+          <folding>
+            <element signature="e#2737#2764#0" expanded="true" />
+            <element signature="e#2922#2945#0" expanded="true" />
+            <element signature="e#3059#3082#0" expanded="true" />
+            <element signature="e#3196#3218#0" expanded="true" />
+            <element signature="e#5651#5674#0" expanded="true" />
+            <element signature="e#5788#5814#0" expanded="true" />
+            <element signature="e#5928#5951#0" expanded="true" />
+            <element signature="e#6108#6131#0" expanded="true" />
+            <marker date="1499285691030" expanded="false" signature="860:874" ph="&quot;What is the national bird of Finland?&quot;" />
+            <marker date="1499285691030" expanded="true" signature="1291:1307" ph="&quot;Pigeon&quot;" />
+            <marker date="1499285691030" expanded="false" signature="1421:1436" ph="&quot;Eagle&quot;" />
+            <marker date="1499285691030" expanded="false" signature="1550:1564" ph="&quot;Duck&quot;" />
+            <marker date="1499285691030" expanded="false" signature="1721:1735" ph="&quot;Swan&quot;" />
+            <marker date="1499285691030" expanded="false" signature="2338:2358" ph="&quot;Who was the first president of Finland?&quot;" />
+            <marker date="1499285691030" expanded="false" signature="3821:3837" ph="&quot;What is the national animal of Finland?&quot;" />
+            <marker date="1499285691030" expanded="false" signature="4255:4269" ph="&quot;Brown bear&quot;" />
+            <marker date="1499285691030" expanded="false" signature="4383:4397" ph="&quot;Frog&quot;" />
+            <marker date="1499285691030" expanded="false" signature="4511:4527" ph="&quot;Bobcat&quot;" />
+            <marker date="1499285691030" expanded="false" signature="4641:4657" ph="&quot;Rabbit&quot;" />
+            <marker date="1499285691030" expanded="false" signature="5260:5278" ph="&quot;Who is the president of Finland?&quot;" />
+            <marker date="1499285691030" expanded="true" signature="6734:6753" ph="&quot;Which of these are Finland's neighboring countries?&quot;" />
+            <marker date="1499285691030" expanded="false" signature="7238:7251" ph="&quot;Sweden&quot;" />
+            <marker date="1499285691030" expanded="false" signature="7470:7483" ph="&quot;Japan&quot;" />
+            <marker date="1499285691030" expanded="false" signature="7702:7715" ph="&quot;France&quot;" />
+            <marker date="1499285691030" expanded="false" signature="7934:7947" ph="&quot;Russia&quot;" />
+            <marker date="1499285691030" expanded="false" signature="8606:8620" ph="&quot;What is Finland called in Finnish?&quot;" />
+            <marker date="1499285691030" expanded="true" signature="9294:9308" ph="&quot;Send&quot;" />
+            <marker date="1499285691030" expanded="false" signature="9428:9443" ph="&quot;Score:&quot;" />
           </folding>
         </state>
       </provider>

@@ -45,4 +45,11 @@
     <string name="fra">France</string>
     <!--Finland in Finnish-->
     <string name="fin">Suomi</string>
+    <string name="riitta_uosukainen">Riitta Uosukainen</string>
+    <string name="k_j_st_hlberg">K.J. Ståhlberg</string>
+    <string name="sauli_niinist">Sauli Niinistö</string>
+    <string name="u_k_kekkonen">U.K. Kekkonen</string>
+    <string name="tarja_halonen">Tarja Halonen</string>
+    <string name="martti_ahtisaari">Martti Ahtisaari</string>
+    <string name="matti_nyk_nen">Matti Nykänen</string>
 </resources>
